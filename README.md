@@ -1,10 +1,10 @@
 ### 👋 Hi there visitor
 
-I am a Programmer 💻 since 2020, where I started my journey with html and css for Front-End projects.
+⚡ I am a Programmer 💻 since 2020, where I started my journey with html and css for Front-End projects.
 
 💬 Talk to me about: VueJs, JavaScript, ReactJs, Web Development.
 
-📚 Nowadays I'm learning: typescript, design and front-end
+🌱 Nowadays I'm learning: typescript, design and front-end
  
 Have a nice day =)
 
