@@ -4,7 +4,7 @@
 
 💬 Talk to me about: VueJs, JavaScript, ReactJs, Web Development.
 
-🌱 Nowadays I'm learning: typescript, design and front-end
+🌱 Nowadays I'm learning: typescript, design and Angular 9
  
 Have a nice day =)
 
